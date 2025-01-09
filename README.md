@@ -3,6 +3,8 @@
 
 ## ②課題内容（どんな作品か）
 アンケートをとれるアプリ（ログイン認証つき）
+ID test1 PASS test1 →すべての処理可能
+ID test2 PASS test2→削除不可
 
 ## ③DEMO
 https://monokatari.sakura.ne.jp/php04_kadai_sakura/
